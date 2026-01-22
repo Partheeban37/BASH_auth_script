@@ -13,3 +13,6 @@ A Bash-based monitoring script that parses Linux authentication logs to detect r
 ```bash
 chmod +x failed_login_monitor.sh
 ./failed_login_monitor.sh
+```
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 175216" src="https://github.com/user-attachments/assets/212fea02-f1a9-4fa7-a489-2fdf4a2d3480" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-22 175203" src="https://github.com/user-attachments/assets/efd5ef45-0907-49b2-b4e1-d54f00461bfa" />
